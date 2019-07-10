@@ -10,5 +10,4 @@ function getSquaresNumberInPoligon (n) {
    return result;
 }
 
-console.log(getSquaresNumberInPoligon(2));
 
